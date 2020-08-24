@@ -10,6 +10,8 @@ namespace WebAPI_Project.Models
 {
     public class FirstClass
     {
+        //IMPORTANT CHANGE!
+
         //Sets the value of "a" to -10
         int a = -10;
         //Sets the value of "b" to 7
